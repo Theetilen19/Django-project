@@ -66,4 +66,4 @@ class QuestionDetailViewTests(TestCase):
             [question2, question1],
         )
 
-# Create your tests here.
+
